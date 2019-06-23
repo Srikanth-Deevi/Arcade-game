@@ -1,0 +1,9 @@
+/* text in the body comes in center */
+body {
+  text-align: center;
+}
+
+/* displaying text  color in h1 */
+h1 {
+  color: #992178;
+}
